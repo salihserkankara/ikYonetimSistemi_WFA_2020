@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BD13F9FA-CC95-499A-9685-E3420E129710}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>IKYonetimSistemi</RootNamespace>
+    <AssemblyName>IKYonetimSistemi</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcilisEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcilisEkrani.Designer.cs">
+      <DependentUpon>AcilisEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasvuruGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasvuruGuncelle.Designer.cs">
+      <DependentUpon>BasvuruGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BSTOperations\BSTMethods.cs" />
+    <Compile Include="BSTOperations\BuildData.cs" />
+    <Compile Include="Detaylar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Detaylar.Designer.cs">
+      <DependentUpon>Detaylar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ElemanArama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ElemanArama.Designer.cs">
+      <DependentUpon>ElemanArama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ElemanListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ElemanListele.Designer.cs">
+      <DependentUpon>ElemanListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="giris.Designer.cs">
+      <DependentUpon>giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IsBasvuru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IsBasvuru.Designer.cs">
+      <DependentUpon>IsBasvuru.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ApplicantsModel.cs" />
+    <Compile Include="Models\BSTNode.cs" />
+    <Compile Include="Models\BusinessModel.cs" />
+    <Compile Include="Models\CollegeModel.cs" />
+    <Compile Include="Models\FilterModel.cs" />
+    <Compile Include="Models\NodeModel.cs" />
+    <Compile Include="Models\Security.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AcilisEkrani.resx">
+      <DependentUpon>AcilisEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasvuruGuncelle.resx">
+      <DependentUpon>BasvuruGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Detaylar.resx">
+      <DependentUpon>Detaylar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ElemanArama.resx">
+      <DependentUpon>ElemanArama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ElemanListele.resx">
+      <DependentUpon>ElemanListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="giris.resx">
+      <DependentUpon>giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IsBasvuru.resx">
+      <DependentUpon>IsBasvuru.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,78 @@
+C:\Users\salihserkankara\Desktop\YazGel-I\IKYonetimSistemi\IKYonetimSistemi\bin\Debug\IKYonetimSistemi.exe.config
+C:\Users\salihserkankara\Desktop\YazGel-I\IKYonetimSistemi\IKYonetimSistemi\bin\Debug\IKYonetimSistemi.exe
+C:\Users\salihserkankara\Desktop\YazGel-I\IKYonetimSistemi\IKYonetimSistemi\bin\Debug\IKYonetimSistemi.pdb
+C:\Users\salihserkankara\Desktop\YazGel-I\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.Properties.Resources.resources
+C:\Users\salihserkankara\Desktop\YazGel-I\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\salihserkankara\Desktop\YazGel-I\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\salihserkankara\Desktop\YazGel-I\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.exe
+C:\Users\salihserkankara\Desktop\YazGel-I\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.pdb
+C:\Users\salihserkankara\Desktop\YazGel-I\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.csprojAssemblyReference.cache
+C:\Users\salihserkankara\Desktop\YazGel-I\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.IsBasvuru.resources
+C:\Users\salihserkankara\Desktop\YazGel-I\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.AcilisEkrani.resources
+C:\Users\salihserkankara\Desktop\YazGel-I\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.giris.resources
+C:\Users\salihserkankara\Desktop\YazGel-I\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.ElemanArama.resources
+C:\Users\salihserkankara\Desktop\YazGel-I\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.ElemanListele.resources
+C:\Users\Metincem\Desktop\YazGelProje\IKYonetimSistemi\IKYonetimSistemi\bin\Debug\IKYonetimSistemi.exe.config
+C:\Users\Metincem\Desktop\YazGelProje\IKYonetimSistemi\IKYonetimSistemi\bin\Debug\IKYonetimSistemi.exe
+C:\Users\Metincem\Desktop\YazGelProje\IKYonetimSistemi\IKYonetimSistemi\bin\Debug\IKYonetimSistemi.pdb
+C:\Users\Metincem\Desktop\YazGelProje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.AcilisEkrani.resources
+C:\Users\Metincem\Desktop\YazGelProje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.ElemanArama.resources
+C:\Users\Metincem\Desktop\YazGelProje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.ElemanListele.resources
+C:\Users\Metincem\Desktop\YazGelProje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.giris.resources
+C:\Users\Metincem\Desktop\YazGelProje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.IsBasvuru.resources
+C:\Users\Metincem\Desktop\YazGelProje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.Properties.Resources.resources
+C:\Users\Metincem\Desktop\YazGelProje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\Metincem\Desktop\YazGelProje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Metincem\Desktop\YazGelProje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.exe
+C:\Users\Metincem\Desktop\YazGelProje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.pdb
+C:\Users\Metincem\Desktop\YazGelProje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.csprojAssemblyReference.cache
+C:\Users\Metincem\Desktop\YazGelProje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.Detaylar.resources
+C:\Users\Metincem\Desktop\YazGelProje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.BasvuruGuncelle.resources
+C:\Users\salihserkankara\Desktop\IKYonetimSistemi\IKYonetimSistemi\bin\Debug\IKYonetimSistemi.exe.config
+C:\Users\salihserkankara\Desktop\IKYonetimSistemi\IKYonetimSistemi\bin\Debug\IKYonetimSistemi.exe
+C:\Users\salihserkankara\Desktop\IKYonetimSistemi\IKYonetimSistemi\bin\Debug\IKYonetimSistemi.pdb
+C:\Users\salihserkankara\Desktop\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.csprojAssemblyReference.cache
+C:\Users\salihserkankara\Desktop\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.AcilisEkrani.resources
+C:\Users\salihserkankara\Desktop\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.BasvuruGuncelle.resources
+C:\Users\salihserkankara\Desktop\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.Detaylar.resources
+C:\Users\salihserkankara\Desktop\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.ElemanArama.resources
+C:\Users\salihserkankara\Desktop\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.ElemanListele.resources
+C:\Users\salihserkankara\Desktop\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.giris.resources
+C:\Users\salihserkankara\Desktop\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.IsBasvuru.resources
+C:\Users\salihserkankara\Desktop\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.Properties.Resources.resources
+C:\Users\salihserkankara\Desktop\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\salihserkankara\Desktop\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\salihserkankara\Desktop\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.exe
+C:\Users\salihserkankara\Desktop\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.pdb
+C:\Users\Metincem\Desktop\Yazılım Proje\IKYonetimSistemi\IKYonetimSistemi\bin\Debug\IKYonetimSistemi.exe.config
+C:\Users\Metincem\Desktop\Yazılım Proje\IKYonetimSistemi\IKYonetimSistemi\bin\Debug\IKYonetimSistemi.exe
+C:\Users\Metincem\Desktop\Yazılım Proje\IKYonetimSistemi\IKYonetimSistemi\bin\Debug\IKYonetimSistemi.pdb
+C:\Users\Metincem\Desktop\Yazılım Proje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.csprojAssemblyReference.cache
+C:\Users\Metincem\Desktop\Yazılım Proje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.AcilisEkrani.resources
+C:\Users\Metincem\Desktop\Yazılım Proje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.BasvuruGuncelle.resources
+C:\Users\Metincem\Desktop\Yazılım Proje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.Detaylar.resources
+C:\Users\Metincem\Desktop\Yazılım Proje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.ElemanArama.resources
+C:\Users\Metincem\Desktop\Yazılım Proje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.ElemanListele.resources
+C:\Users\Metincem\Desktop\Yazılım Proje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.giris.resources
+C:\Users\Metincem\Desktop\Yazılım Proje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.IsBasvuru.resources
+C:\Users\Metincem\Desktop\Yazılım Proje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.Properties.Resources.resources
+C:\Users\Metincem\Desktop\Yazılım Proje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\Metincem\Desktop\Yazılım Proje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Metincem\Desktop\Yazılım Proje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.exe
+C:\Users\Metincem\Desktop\Yazılım Proje\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.pdb
+C:\Users\Metincem\Desktop\Proje Son\IKYonetimSistemi\IKYonetimSistemi\bin\Debug\IKYonetimSistemi.exe.config
+C:\Users\Metincem\Desktop\Proje Son\IKYonetimSistemi\IKYonetimSistemi\bin\Debug\IKYonetimSistemi.exe
+C:\Users\Metincem\Desktop\Proje Son\IKYonetimSistemi\IKYonetimSistemi\bin\Debug\IKYonetimSistemi.pdb
+C:\Users\Metincem\Desktop\Proje Son\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.csprojAssemblyReference.cache
+C:\Users\Metincem\Desktop\Proje Son\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.AcilisEkrani.resources
+C:\Users\Metincem\Desktop\Proje Son\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.BasvuruGuncelle.resources
+C:\Users\Metincem\Desktop\Proje Son\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.Detaylar.resources
+C:\Users\Metincem\Desktop\Proje Son\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.ElemanArama.resources
+C:\Users\Metincem\Desktop\Proje Son\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.ElemanListele.resources
+C:\Users\Metincem\Desktop\Proje Son\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.giris.resources
+C:\Users\Metincem\Desktop\Proje Son\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.IsBasvuru.resources
+C:\Users\Metincem\Desktop\Proje Son\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.Properties.Resources.resources
+C:\Users\Metincem\Desktop\Proje Son\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\Metincem\Desktop\Proje Son\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Metincem\Desktop\Proje Son\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.exe
+C:\Users\Metincem\Desktop\Proje Son\IKYonetimSistemi\IKYonetimSistemi\obj\Debug\IKYonetimSistemi.pdb
